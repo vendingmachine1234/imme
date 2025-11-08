@@ -1,0 +1,7 @@
+{
+  "name": "Copy of june75",
+  "description": "A mobile application to scan and classify Abaca fiber grades using image analysis, providing details on grade, price, and uses.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
